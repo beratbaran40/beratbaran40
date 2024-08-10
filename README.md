@@ -20,4 +20,4 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 So, let’s make some magic happen together! ✨
 
-https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47qg9moiq0hdbp709m12k4x3kc610jgoophrgnlooq&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![giphy-downsized-large](https://github.com/user-attachments/assets/33e5f186-54ec-44db-84fc-bc3497461330)
