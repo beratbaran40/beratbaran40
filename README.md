@@ -11,7 +11,8 @@ Currently diving headfirst into the world of **Java** - **Kotlin** and **Android
 - **Tools:** Git, Android Studio, Firebase
 
 ## 🎉 Check Out My Projects!
-- Coming soon...
+- Basic Catch the Money Game 💸
+- Basic Landmark Book App 🗽
 
 ## 🔥 Let’s Connect!
 I’m always up for a chat, collaboration, or a friendly code review! You can reach me here:
