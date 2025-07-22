@@ -1,7 +1,7 @@
 # Hello 🌍, I'm Berat Baran!
 
 
-![giphy](https://github.com/user-attachments/assets/217e139d-94ab-4e0b-b5a7-327034d33b3d) ![giphy](https://github.com/user-attachments/assets/0d7f0d93-177b-42ec-9986-b22d481760f5) ![giphy](https://github.com/user-attachments/assets/084331ba-27b5-4132-93ba-ba4efadca076)
+![giphy](https://github.com/user-attachments/assets/217e139d-94ab-4e0b-b5a7-327034d33b3d)![giphy](https://github.com/user-attachments/assets/0d7f0d93-177b-42ec-9986-b22d481760f5)![giphy](https://github.com/user-attachments/assets/084331ba-27b5-4132-93ba-ba4efadca076)
 
 
 
