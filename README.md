@@ -1,6 +1,6 @@
 # Hello 🌍, I'm Berat Baran!
 
-![giphy](https://github.com/user-attachments/assets/9b5c94d8-9d80-43ef-b7a6-10de83ceedf2)
+![giphy](https://github.com/user-attachments/assets/fa0f82e5-0cc0-4dfe-a47c-1dc885c23d6f)
 
 🌟 Welcome to my corner of the code universe! I’m an Android Developer Intern in training, fueled by coffee and a passion for creating amazing mobile experiences. 
 
@@ -28,4 +28,4 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 So, let’s make some magic happen together! ✨
 
-![giphy](https://github.com/user-attachments/assets/fb6bad54-a5c0-454d-a571-6d57a04fd760)
+![giphy](https://github.com/user-attachments/assets/254c2d0e-0410-4624-85e6-e0f60c2bcb72)
