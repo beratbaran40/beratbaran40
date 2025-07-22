@@ -26,6 +26,6 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 So, let’s make some magic happen together! ✨
 
-![giphy-downsized-large](https://github.com/user-attachments/assets/33e5f186-54ec-44db-84fc-bc3497461330)
-![giphy-downsized-large](https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1)
+![giphy](https://github.com/user-attachments/assets/b2f61581-d9c5-42c7-9cbe-f1c1c1b09df2)
+
 
