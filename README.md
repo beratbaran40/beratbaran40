@@ -1,4 +1,4 @@
-           # Hello 🌍, I'm Berat!
+# Hello 🌍, I'm Berat!
 
 🌟 Welcome to my corner of the code universe! I’m an Android Developer Intern in training, fueled by coffee and a passion for creating amazing mobile experiences. 
 
