@@ -21,6 +21,8 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 - Woof App 🐶 [Kotlin]  
 - SuperHero App 🦸 [Kotlin]  
 - InternZ App 🧑‍💼 [Kotlin]  
+- Scramble Game App 🔀 [Kotlin]  
+- Sweet Order App 🍰 [Kotlin]
 
 Feel free to explore the source code and drop me a ⭐️!
 
