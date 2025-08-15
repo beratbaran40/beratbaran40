@@ -8,7 +8,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 ## 🛠️ My Toolkit
 - **Languages:** Kotlin, Java  
 - **Frameworks:** Android SDK, Jetpack  
-- **Tools:** Git, Android Studio, Firebase  
+- **Tools:** Git, Android Studio, Firebase, Canva  
 
 ## 🎉 Check Out My Projects!
 - Catch the Money Game 💸 [Java]  
