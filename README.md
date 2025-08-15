@@ -23,6 +23,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 - InternZ App 🧑‍💼 [Kotlin]  
 - Scramble Game App with Unit Tests 🔀 [Kotlin]  
 - Simple Order App with UI Tests 🍰 [Kotlin]
+- Basic Mail Client Reply App with Window Size Classes 📩 [Kotlin]
 
 Feel free to explore the source code and drop me a ⭐️!
 
