@@ -97,7 +97,7 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 So, let’s make some magic happen together! ✨  
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZxemNjNjFtd2ZhN20zbDJ4YTN1bnd1OHNsamFnbmJhYzU5Nng1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMHqp35D2K9AUOPjnv/giphy.gif" alt="coding gif" width="600"/>
+  <img src="https://i.giphy.com/media/eMHqp35D2K9AUOPjnv/giphy.gif" alt="coding gif" width="600"/>
 </p>
 
 <p align="center">
