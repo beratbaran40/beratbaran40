@@ -16,34 +16,35 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 Feel free to explore the source code and drop me a ⭐️!
 
 ## 🔥 Let’s Connect!
+
 I’m always up for a chat, collaboration, or a friendly code review! You can reach me here:
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/berat-baran-038963218/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- X -->
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/beratbarann_">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="X" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- GitHub -->
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/beratbaran40">
-    <img src="https://skillicons.dev/icons?i=github" height=50" alt="GitHub" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Medium (yeşil) -->
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@berat.baran.1907">
-    <img src="https://cdn.simpleicons.org/medium/00ab6c" height="50" alt="Medium" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Mail -->
+    <img src="https://cdn.simpleicons.org/medium/00ab6c" height="48" alt="Medium"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:berat.baran.1907@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="E-posta" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Stack Overflow -->
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="E-posta"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/23127537/berat-baran">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="Stack Overflow" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="Stack Overflow"/>
   </a>
 </p>
+
 
 So, let’s make some magic happen together! ✨  
 
