@@ -7,37 +7,13 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 
 ## 🛠️ My Toolkit
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/> <b>Kotlin</b>
-  <br/><br/>
+<p align="center">
+  
+| <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/> <br/> Kotlin | <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/> <br/> Android Studio | <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/> <br/> Gradle | <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/> <br/> Firebase | <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/> <br/> Git | <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/> <br/> GitHub | <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/> <br/> Figma | <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/> <br/> Canva |
+|---|---|---|---|---|---|---|---|
 
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/>
-  <b>Android Studio</b>
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/>
-  <b>Gradle</b>
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
-  <b>Firebase</b>
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
-  <b>Git</b>
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  <b>GitHub</b>
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
-  <b>Figma</b>
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/>
-  <b>Canva</b>
 </p>
+
 
 ### 📚 Frameworks & Libraries
 - Jetpack Compose  
