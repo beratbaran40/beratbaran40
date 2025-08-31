@@ -10,7 +10,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 - **Frameworks:** Android SDK, Jetpack  
 - **Tools:** Git, Android Studio, Firebase, Canva  
 
-## 🎉 Check Out My Project!
+## 🎉 Check Out My  Current Project!
 - Loppa Smart Travel App 🧳✈️🚌 [Kotlin]
 
 Feel free to explore the source code and drop me a ⭐️!
