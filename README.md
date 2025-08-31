@@ -39,7 +39,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
         <b>Figma</b>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/><br/>
+        <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva"/><br/>
         <b>Canva</b>
       </td>
     </tr>
