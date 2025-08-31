@@ -57,9 +57,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 - UI Test  
 - JUnit  
 
-## 🎉 Check Out My Current Project!
-
-**🚌 Loppa Smart Travel App [Kotlin]**  
+## 🎉 My Current Project: **🚌 Loppa Smart Travel App**   
 🚧 *Under Development* 🚧  
 
 Feel free to explore the source code and drop me a ⭐️!
