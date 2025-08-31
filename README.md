@@ -8,38 +8,42 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 ## 🛠️ My Toolkit
 
 <p align="center">
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/><br/>
-    <sub>Kotlin</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/><br/>
-    <sub>Android Studio</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/><br/>
-    <sub>Gradle</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/><br/>
-    <sub>Firebase</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/><br/>
-    <sub>Git</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/>
-    <sub>GitHub</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/><br/>
-    <sub>Figma</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/><br/>
-    <sub>Canva</sub>
-  </span>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/><br/>
+        <sub>Kotlin</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/><br/>
+        <sub>Android Studio</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/><br/>
+        <sub>Gradle</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/><br/>
+        <sub>Firebase</sub>
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/><br/>
+        <sub>Git</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/>
+        <sub>GitHub</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/><br/>
+        <sub>Figma</sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/><br/>
+        <sub>Canva</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 📚 Frameworks & Libraries
