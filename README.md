@@ -26,6 +26,29 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 [![E-posta](https://img.shields.io/badge/E--posta-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:berat.baran.1907@gmail.com)
 
 
+
+### Sosyal
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/berat-baran-038963218/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" />
+  </a>
+  <a href="https://x.com/beratbarann_" title="X (Twitter)">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="32" />
+  </a>
+  <a href="https://github.com/beratbaran40" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="32" />
+  </a>
+  <a href="https://medium.com/@berat.baran.1907" title="Medium">
+    <img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" height="32" />
+  </a>
+  <a href="mailto:berat.baran.1907@gmail.com" title="E-posta">
+    <img src="https://cdn.simpleicons.org/minutemailer/0078D4" alt="E-posta" height="32" />
+  </a>
+</p>
+
+
+
 So, let’s make some magic happen together! ✨  
 
 ![giphy](https://github.com/user-attachments/assets/254c2d0e-0410-4624-85e6-e0f60c2bcb72)
