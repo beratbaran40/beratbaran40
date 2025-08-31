@@ -96,8 +96,6 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 So, let’s make some magic happen together! ✨  
 
-![giphy](https://github.com/user-attachments/assets/254c2d0e-0410-4624-85e6-e0f60c2bcb72)
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRkeGFoY2FlMGhyaHVmZmtybDJlNDQ5OXBmb3dxc2dndHlxYnRuZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V2ojLo7PvhVug/giphy.gif" alt="coding gif" width="480"/>
 </p>
