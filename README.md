@@ -11,35 +11,35 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
   <table border="0">
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/><br/>
+        <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="Kotlin"/><br/>
         <b>Kotlin</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/><br/>
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="Android Studio"/><br/>
         <b>Android Studio</b>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/><br/>
+        <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="Gradle"/><br/>
         <b>Gradle</b>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/><br/>
+        <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase"/><br/>
         <b>Firebase</b>
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/><br/>
+        <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git"/><br/>
         <b>Git</b>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/>
+        <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub"/><br/>
         <b>GitHub</b>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/><br/>
+        <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma"/><br/>
         <b>Figma</b>
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva"/><br/>
+        <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="Canva"/><br/>
         <b>Canva</b>
       </td>
     </tr>
