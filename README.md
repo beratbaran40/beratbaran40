@@ -8,15 +8,47 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 ## 🛠️ My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=gradle" height="48" alt="Gradle" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=canva" height="48" alt="Canva" /> &nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin"/><br/><sub>Kotlin</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio"/><br/><sub>Android Studio</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=gradle" height="48" alt="Gradle"/><br/><sub>Gradle</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"/><br/><sub>Firebase</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br/><sub>Git</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/><br/><sub>GitHub</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/><br/><sub>Figma</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=canva" height="48" alt="Canva"/><br/><sub>Canva</sub>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/><br/><sub>Postman</sub>
+  </a>
 </p>
+
+### 📚 Frameworks & Libraries
+- Jetpack Compose  
+- Android Jetpack (Navigation, ViewModel, LiveData, Room, DataStore)  
+- Retrofit  
+- Kotlin Coroutines  
+- Dagger/Hilt  
+- Glide / Picasso  
+
+### 🧪 Testing
+- UI Test  
+- JUnit  
+
 
 ### 📚 Frameworks & Libraries
 - Jetpack Compose  
