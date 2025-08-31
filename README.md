@@ -7,41 +7,38 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 
 ## 🛠️ My Toolkit
 
-<p align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin"/><br/>
-    <sub>Kotlin</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio"/><br/>
-    <sub>Android Studio</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=gradle" height="48" alt="Gradle"/><br/>
-    <sub>Gradle</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"/><br/>
-    <sub>Firebase</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/><br/>
-    <sub>Git</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/><br/>
-    <sub>GitHub</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/><br/>
-    <sub>Figma</sub>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=canva" height="48" alt="Canva"/><br/>
-    <sub>Canva</sub>
-  </div>
-</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/>
+  <b>Kotlin</b>
+  <br/><br/>
 
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/>
+  <b>Android Studio</b>
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/>
+  <b>Gradle</b>
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
+  <b>Firebase</b>
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <b>Git</b>
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <b>GitHub</b>
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
+  <b>Figma</b>
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/>
+  <b>Canva</b>
+</p>
 
 ### 📚 Frameworks & Libraries
 - Jetpack Compose  
