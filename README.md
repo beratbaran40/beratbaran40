@@ -97,5 +97,9 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 So, let’s make some magic happen together! ✨  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRkeGFoY2FlMGhyaHVmZmtybDJlNDQ5OXBmb3dxc2dndHlxYnRuZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V2ojLo7PvhVug/giphy.gif" alt="coding gif" width="480"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRkeGFoY2FlMGhyaHVmZmtybDJlNDQ5OXBmb3dxc2dndHlxYnRuZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V2ojLo7PvhVug/giphy.gif" alt="coding gif" width="600"/>
+</p>
+
+<p align="center">
+  <i>"Follow the code... free your mind."</i> 🕶️
 </p>
