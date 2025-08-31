@@ -64,27 +64,23 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 <p align="left">
   <a href="https://www.linkedin.com/in/berat-baran-038963218/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/beratbarann_">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/beratbaran40">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="X"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@berat.baran.1907">
-    <img src="https://cdn.simpleicons.org/medium/00ab6c" height="45" alt="Medium"/>
+    <img src="https://cdn.simpleicons.org/medium/00ab6c" height="50" alt="Medium"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:berat.baran.1907@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="E-posta"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="E-posta"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/23127537/berat-baran">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="45" alt="Stack Overflow"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="Stack Overflow"/>
   </a>
 </p>
 
