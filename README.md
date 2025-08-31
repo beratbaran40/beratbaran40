@@ -62,7 +62,7 @@ Feel free to explore the source code and drop me a ⭐️!
 
 I’m always up for a chat, collaboration, or a friendly code review! You can reach me here:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/berat-baran-038963218/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
   </a>
