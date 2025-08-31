@@ -8,39 +8,39 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 ## 🛠️ My Toolkit
 
 <p align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/><br/>
-        <sub>Kotlin</sub>
+        <b>Kotlin</b>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/><br/>
-        <sub>Android Studio</sub>
+        <b>Android Studio</b>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/><br/>
-        <sub>Gradle</sub>
+        <b>Gradle</b>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/><br/>
-        <sub>Firebase</sub>
+        <b>Firebase</b>
       </td>
       <td align="center" width="80">
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/><br/>
-        <sub>Git</sub>
+        <b>Git</b>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/><br/>
-        <sub>GitHub</sub>
+        <b>GitHub</b>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/><br/>
-        <sub>Figma</sub>
+        <b>Figma</b>
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/><br/>
-        <sub>Canva</sub>
+        <b>Canva</b>
       </td>
     </tr>
   </table>
