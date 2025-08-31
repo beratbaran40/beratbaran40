@@ -73,7 +73,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 ## 🎉 Check Out My Current Project!
 
 **Loppa Smart Travel App 🧳✈️🚌 [Kotlin]**  
-![🚧](https://img.shields.io/badge/status-UNDER_DEVELOPMENT-orange?style=for-the-badge&logo=android&logoColor=white)
+!(🚧 https://img.shields.io/badge/status-UNDER_DEVELOPMENT-orange?style=for-the-badge&logo=android&logoColor=white)
 
 Feel free to explore the source code and drop me a ⭐️!
 
