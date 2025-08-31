@@ -6,10 +6,32 @@
 Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all about building apps that not only work well but also look awesome. 
 
 ## 🛠️ My Toolkit
-- **Languages:** Kotlin, Java  
-- **Frameworks:** Android SDK, Jetpack  
-- **Tools:** Git, Android Studio, Firebase, Canva  
 
+<p align="center">
+  <!-- Language -->
+  <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" /> &nbsp;
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=gradle" height="48" alt="Gradle" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=canva" height="48" alt="Canva" /> &nbsp;
+</p>
+
+### 📚 Frameworks & Libraries
+- Jetpack Compose  
+- Android Jetpack (Navigation, ViewModel, LiveData, Room, DataStore)  
+- Retrofit  
+- Kotlin Coroutines  
+- Dagger/Hilt  
+
+### 🧪 Testing
+- UI Test  
+- JUnit  
+ 
 ## 🎉 Check Out My  Current Project!
 -Loppa Smart Travel App 🧳✈️🚌 [Kotlin] ###🚧 UNDER DEVELOPMENT 🚧
 
@@ -44,7 +66,6 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="Stack Overflow"/>
   </a>
 </p>
-
 
 So, let’s make some magic happen together! ✨  
 
