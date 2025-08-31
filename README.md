@@ -11,7 +11,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 - **Tools:** Git, Android Studio, Firebase, Canva  
 
 ## 🎉 Check Out My  Current Project!
--🚧 Loppa Smart Travel App 🧳✈️🚌 [Kotlin] UNDER DEVELOPMENT 🚧
+-Loppa Smart Travel App 🧳✈️🚌 [Kotlin] ###🚧 UNDER DEVELOPMENT 🚧
 
 Feel free to explore the source code and drop me a ⭐️!
 
@@ -30,29 +30,30 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berat-baran-038963218/" title="LinkedIn" aria-label="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(25%) sepia(97%) saturate(3275%) hue-rotate(200deg) brightness(95%) contrast(94%);" />
+    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" alt="LinkedIn" height="40" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://x.com/beratbarann_" title="X (Twitter)" aria-label="X">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="40" style="filter: invert(100%)" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" height="40" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://github.com/beratbaran40" title="GitHub" aria-label="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="40" style="filter: invert(100%)" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="40" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://medium.com/@berat.baran.1907" title="Medium" aria-label="Medium">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" height="40" style="filter: invert(100%)" />
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" alt="Medium" height="40" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="mailto:berat.baran.1907@gmail.com" title="E-posta" aria-label="E-posta">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/minutemailer.svg" alt="E-posta" height="40" style="filter: invert(100%)" />
+    <img src="https://cdn.simpleicons.org/minutemailer/FFFFFF" alt="E-posta" height="40" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://stackoverflow.com/users/23127537/berat-baran" title="Stack Overflow" aria-label="Stack Overflow">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" alt="Stack Overflow" height="40" style="filter: invert(50%) sepia(87%) saturate(2135%) hue-rotate(358deg) brightness(94%) contrast(98%);" />
+    <img src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" alt="Stack Overflow" height="40" />
   </a>
 </p>
+
 
 So, let’s make some magic happen together! ✨  
 
