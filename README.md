@@ -31,31 +31,34 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 ## Sosyal Bağlantılarım
 
+## Sosyal Bağlantılarım
+
 <p align="center">
   <a href="https://www.linkedin.com/in/berat-baran-038963218/" title="LinkedIn" aria-label="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="40" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="50" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://x.com/beratbarann_" title="X (Twitter)" aria-label="X">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" height="40" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" height="50" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://github.com/beratbaran40" title="GitHub" aria-label="GitHub">
-    <img src="https://cdn.simpleicons.org/github/CCCCCC" alt="GitHub" height="40" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="50" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://medium.com/@berat.baran.1907" title="Medium" aria-label="Medium">
-    <img src="https://cdn.simpleicons.org/medium/444444" alt="Medium" height="40" />
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" alt="Medium" height="50" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="mailto:berat.baran.1907@gmail.com" title="E-posta" aria-label="E-posta">
-    <img src="https://cdn.simpleicons.org/minutemailer/0078D4" alt="E-posta" height="40" />
+    <img src="https://cdn.simpleicons.org/minutemailer/FFFFFF" alt="E-posta" height="50" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://stackoverflow.com/users/23127537/berat-baran" title="Stack Overflow" aria-label="Stack Overflow">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" height="40" />
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" height="50" />
   </a>
 </p>
+
 
 
 
