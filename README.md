@@ -29,21 +29,32 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 ## Sosyal
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/berat-baran-038963218/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- X -->
   <a href="https://x.com/beratbarann_">
     <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/beratbaran40">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Medium (simpleicons, siyah logo) -->
   <a href="https://medium.com/@berat.baran.1907">
-    <img src="https://skillicons.dev/icons?i=medium" height="48" alt="Medium" />
+    <img src="https://cdn.simpleicons.org/medium/000000" height="48" alt="Medium" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Mail -->
   <a href="mailto:berat.baran.1907@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="E-posta" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/23127537/berat-baran">
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="Stack Overflow" />
   </a>
