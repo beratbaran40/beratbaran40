@@ -44,9 +44,9 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Medium (simpleicons, siyah logo) -->
+  <!-- Medium (yeşil) -->
   <a href="https://medium.com/@berat.baran.1907">
-    <img src="https://cdn.simpleicons.org/medium/000000" height="48" alt="Medium" />
+    <img src="https://cdn.simpleicons.org/medium/00ab6c" height="48" alt="Medium" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Mail -->
@@ -59,6 +59,7 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="Stack Overflow" />
   </a>
 </p>
+
 
 
 
