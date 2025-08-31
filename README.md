@@ -29,30 +29,26 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 ## Sosyal
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/berat-baran-038963218/" title="LinkedIn" aria-label="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  <a href="https://www.linkedin.com/in/berat-baran-038963218/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/beratbarann_" title="X (Twitter)" aria-label="X">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="40" />
+  <a href="https://x.com/beratbarann_">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/beratbaran40" title="GitHub" aria-label="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
+  <a href="https://github.com/beratbaran40">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://medium.com/@berat.baran.1907" title="Medium" aria-label="Medium">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="40" />
+  <a href="https://medium.com/@berat.baran.1907">
+    <img src="https://skillicons.dev/icons?i=medium" height="48" alt="Medium" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:berat.baran.1907@gmail.com" title="E-posta" aria-label="E-posta">
-    <img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="E-posta" height="40" />
+  <a href="mailto:berat.baran.1907@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="E-posta" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://stackoverflow.com/users/23127537/berat-baran" title="Stack Overflow" aria-label="Stack Overflow">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="40" />
+  <a href="https://stackoverflow.com/users/23127537/berat-baran">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="48" alt="Stack Overflow" />
   </a>
 </p>
+
 
 
 
