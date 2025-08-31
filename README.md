@@ -8,9 +8,12 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 ## 🛠️ My Toolkit
 
 <p align="center">
+  
 | <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin"/> <br/> Kotlin | <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio"/> <br/> Android Studio | <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle"/> <br/> Gradle | <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/> <br/> Firebase | <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/> <br/> Git | <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/> <br/> GitHub | <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/> <br/> Figma | <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva"/> <br/> Canva |
 |---|---|---|---|---|---|---|---|
+
 </p>
+
 
 
 
