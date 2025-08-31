@@ -10,30 +10,21 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 - **Frameworks:** Android SDK, Jetpack  
 - **Tools:** Git, Android Studio, Firebase, Canva  
 
-## 🎉 Check Out My Projects!
-- Catch the Money Game 💸 [Java]  
-- Landmark Book App 🗽 [Java]  
-- Basic ArtGallery App 🌅 [Kotlin]  
-- Dice Roller App 🎲 [Kotlin]  
-- Tip Calculator App 👛 [Kotlin]  
-- Practice for Click Behaviour App 🍋 [Kotlin]  
-- Affirmations App 📜 [Kotlin]  
-- Woof App 🐶 [Kotlin]  
-- SuperHero App 🦸 [Kotlin]  
-- InternZ App 🧑‍💼 [Kotlin]  
-- Scramble Game App with Unit Tests 🔀 [Kotlin]  
-- Simple Order App with UI Tests 🍰 [Kotlin]
-- Basic Mail Client Reply App with Window Size Classes 📩 [Kotlin]
-- Coroutines Practice Basic Race Tracker App 🏃🏻‍♂️ [Kotlin]
-- Basic Mars Photos App ☄️ [Kotlin]
-- Inventory App 🎒 [Kotlin]
+## 🎉 Check Out My Project!
+- Loppa Smart Travel App 🧳✈️🚌 [Kotlin]
 
 Feel free to explore the source code and drop me a ⭐️!
 
 ## 🔥 Let’s Connect!
 I’m always up for a chat, collaboration, or a friendly code review! You can reach me here:  
-- 📧 Email: berat.baran.1907@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/berat-baran-038963218/  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berat-baran-038963218/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/beratbarann_)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beratbaran40)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@berat.baran.1907)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23127537/berat-baran)
+[![E-posta](https://img.shields.io/badge/E--posta-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:berat.baran.1907@gmail.com)
+
 
 So, let’s make some magic happen together! ✨  
 
