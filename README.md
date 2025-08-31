@@ -8,10 +8,7 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
 ## 🛠️ My Toolkit
 
 <p align="center">
-  <!-- Language -->
   <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" /> &nbsp;
-
-  <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=gradle" height="48" alt="Gradle" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" /> &nbsp;
