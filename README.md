@@ -30,27 +30,27 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berat-baran-038963218/" title="LinkedIn" aria-label="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" alt="LinkedIn" height="40" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/beratbarann_" title="X (Twitter)" aria-label="X">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" height="40" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/beratbaran40" title="GitHub" aria-label="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="40" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://medium.com/@berat.baran.1907" title="Medium" aria-label="Medium">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" alt="Medium" height="40" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
+    <img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:berat.baran.1907@gmail.com" title="E-posta" aria-label="E-posta">
-    <img src="https://cdn.simpleicons.org/minutemailer/FFFFFF" alt="E-posta" height="40" />
-  </a>
-  <span>&nbsp;&nbsp;</span>
+    <img src="https://cdn.simpleicons.org/minutemailer/0078D4" alt="E-posta" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://stackoverflow.com/users/23127537/berat-baran" title="Stack Overflow" aria-label="Stack Overflow">
-    <img src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" alt="Stack Overflow" height="40" />
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" height="48" />
   </a>
 </p>
 
