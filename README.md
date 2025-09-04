@@ -68,7 +68,7 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/beratbarann_">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="X"/>
+    <img src="https://skillicons.dev/icons?i=x" height="50" alt="X"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@berat.baran.1907">
