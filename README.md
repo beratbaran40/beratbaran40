@@ -86,8 +86,6 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 
 So, let’s make some magic happen together! ✨
 
-![snake gif](https://github.com/beratbaran40/beratbaran40/blob/output/github-snake-dark.svg)
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlcW14cHNoNmkwMjliZ2Z4YWxuOWV6eHEwdXdjaXU2dW82ZHhyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif" alt="coding gif" width="1000"/>
 </p>
