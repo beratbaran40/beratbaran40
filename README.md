@@ -87,7 +87,7 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 So, let’s make some magic happen together! ✨
 
 <p align="center">
-  <img src="https://tenor.com/tr/view/neo-is-sleeping-matrix-gif-16636972204393541788" alt="coding gif" width="1000"/>
+  <img src="https://tenor.com/tY9FJxaMsP2.gif" alt="coding gif" width="1000"/>
 </p>
 
 <p align="center">
