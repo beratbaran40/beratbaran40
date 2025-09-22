@@ -87,8 +87,10 @@ I’m always up for a chat, collaboration, or a friendly code review! You can re
 So, let’s make some magic happen together! ✨
 
 <p align="center">
-  <img src="https://tenor.com/tY9FJxaMsP2.gif" alt="coding gif" width="1000"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlcW14cHNoNmkwMjliZ2Z4YWxuOWV6eHEwdXdjaXU2dW82ZHhyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SCt3Miv6ugvSg/giphy.gif" alt="coding gif" width="1000"/>
 </p>
+
+<div class="tenor-gif-embed" data-postid="16636972204393541788" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/neo-is-sleeping-matrix-gif-16636972204393541788">Neo Is Sleeping Matrix GIF</a>from <a href="https://tenor.com/search/neo+is+sleeping-gifs">Neo Is Sleeping GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
   <i>"Follow the code... free your mind."</i> 🕶️
