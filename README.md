@@ -42,17 +42,6 @@ Currently diving into the world of **Kotlin** and **Jetpack Compose**! I’m all
   </table>
 </p>
 
-### 📚 Frameworks & Libraries
-- Jetpack Compose  
-- Android Jetpack (Navigation, ViewModel, LiveData, Room, DataStore)  
-- Retrofit  
-- Kotlin Coroutines  
-- Hilt   
-
-### 🧪 Testing
-- UI Test  
-- JUnit  
-
 ## 🎉 My Current Project: **Loppa Smart Travel App 🚌**   
 *🚧 Under Development 🚧*  
 
