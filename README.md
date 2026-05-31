@@ -1,11 +1,11 @@
 <!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/beratbaran40/beratbaran40/main/donebot_hero.png" alt="DoneBot" width="200" />
+<img src="https://cdn.simpleicons.org/android/3DDC84" width="90" alt="Android" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4566EC&center=true&vCenter=true&width=640&lines=Berat+Baran;Android+Developer+%40+Teknasyon;Compose-first.+Detail-obsessed.;Follow+the+code...+free+your+mind." alt="Berat Baran — Android Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3DDC84&center=true&vCenter=true&width=640&lines=Berat+Baran;Android+Developer+%40+Teknasyon;Compose-first.+Detail-obsessed.;Follow+the+code...+free+your+mind." alt="Berat Baran — Android Developer" />
 
 </div>
 
@@ -32,11 +32,13 @@ I'm Berat — an **Android Developer at Teknasyon**, based in İstanbul, buildin
 <!-- ============================ FEATURED ============================ -->
 ## ❯ featured
 
+<img src="https://raw.githubusercontent.com/beratbaran40/beratbaran40/main/donebot_hero.png" align="left" width="100" alt="DoneBot" />
+
 🤖 **[DoneBot](https://github.com/beratbaran40/DoneBot)** — Multi-user Android task manager. 100% Kotlin, multi-module (`app` · `uikit` design system · `baselineprofile` for sub-2s cold starts), built on Jetpack Compose · Clean Architecture + MVI · Room · Hilt · WorkManager. An on-device intent classifier + Firebase Vertex AI assistant cut redundant AI calls (~75%), with offline-first sync.
 
-🧭 **[Loopa](https://github.com/beratbaran40/Loopa)** — A modern travel companion app built with Kotlin & Jetpack Compose. *(in active development)*
+<br clear="left"/>
 
-💼 **[InternZ](https://github.com/beratbaran40/InternZ)** — Internship directory in Compose: swipeable intern cards, spring-based animations, edge-to-edge theming.
+🧭 **[Loopa](https://github.com/beratbaran40/Loopa)** — A modern travel companion app built with Kotlin & Jetpack Compose. *(in active development)*
 
 <!-- ============================ CONNECT ============================ -->
 ## ❯ connect
