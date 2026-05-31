@@ -52,7 +52,6 @@ I'm Berat — an **Android Developer at Teknasyon**, based in İstanbul, buildin
   &nbsp;&nbsp;
   <a href="https://x.com/beratbarann_">
     <img src="https://cdn.simpleicons.org/x/white#gh-dark-mode-only" height="40" alt="X" />
-    <img src="https://cdn.simpleicons.org/x/000000#gh-light-mode-only" height="40" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:berat.baran.1907@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email" /></a>
