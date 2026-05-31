@@ -50,11 +50,10 @@ I'm Berat — an **Android Developer at Teknasyon**, based in İstanbul, buildin
 <div align="center">
   <a href="https://www.linkedin.com/in/berat-baran-038963218/"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/beratbarann_"><img src="https://skillicons.dev/icons?i=twitter" height="44" alt="X" /></a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@berat.baran.1907"><img src="https://cdn.simpleicons.org/medium/00ab6c" height="44" alt="Medium" /></a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/23127537/berat-baran"><img src="https://skillicons.dev/icons?i=stackoverflow" height="44" alt="Stack Overflow" /></a>
+  <a href="https://x.com/beratbarann_">
+    <img src="https://cdn.simpleicons.org/x/white#gh-dark-mode-only" height="40" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/000000#gh-light-mode-only" height="40" alt="X" />
+  </a>
   &nbsp;&nbsp;
   <a href="mailto:berat.baran.1907@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email" /></a>
 </div>
